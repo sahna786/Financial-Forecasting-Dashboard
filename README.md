@@ -55,7 +55,7 @@ Key Focus Area
 2. Order Volume Growth:
 - The total number of orders has reached 861,132, representing a significant increase of 225.36% from the previous year. This rise in order volume aligns with the growth in sales revenue and highlights successful customer acquisition or retention efforts.
 
-3.Top Performing Regions:
+3. Top Performing Regions:
 - Canada and France lead in order volume, with 247K and 241K orders respectively, followed closely by the United States with 233K orders. These countries are key contributors to overall sales, and further efforts in these regions could amplify growth.
 
 4. Profitability:
@@ -79,8 +79,8 @@ Key Focus Area
 - <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Financial%20Sample%20(2).xlsx">Financial Sales Data </a>
 
 ## Preview of Dashboard
-<a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-12%20132254.png">Financial Forecasting dashboard1</a>
-<a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-28%20170706.png">Financial Forecasting dashboard2</a>
+- <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-12%20132254.png">Financial Forecasting dashboard1</a>
+- <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-28%20170706.png">Financial Forecasting dashboard2</a>
 
 ## Conclusion
 The Sales Metrics and Financial Analysis Dashboard successfully provides a comprehensive view of key sales and financial metrics, empowering stakeholders to make informed decisions. By analyzing trends in sales, profit, discounts, and product performance, the dashboard identifies opportunities for growth and areas needing improvement.
