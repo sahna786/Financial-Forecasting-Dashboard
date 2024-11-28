@@ -81,6 +81,8 @@ Key Focus Area
 ## Preview of Dashboard
 https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-12%20132254.png
 - <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-28%20170706.png">Financial Forecasting dashboard2</a>
+![Screenshot 2024-11-12 132254](https://github.com/user-attachments/assets/66cba114-e32b-44c0-87ca-d8cd5d4ddc7e)
+
 
 ## Conclusion
 The Sales Metrics and Financial Analysis Dashboard successfully provides a comprehensive view of key sales and financial metrics, empowering stakeholders to make informed decisions. By analyzing trends in sales, profit, discounts, and product performance, the dashboard identifies opportunities for growth and areas needing improvement.
