@@ -79,7 +79,7 @@ Key Focus Area
 - <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Financial%20Sample%20(2).xlsx">Financial Sales Data </a>
 
 ## Preview of Dashboard
-- <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-12%20132254.png">Financial Forecasting dashboard1</a>
+https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-12%20132254.png
 - <a href="https://github.com/sahna786/Financial-Forecasting-Dashboard/blob/main/Screenshot%202024-11-28%20170706.png">Financial Forecasting dashboard2</a>
 
 ## Conclusion
